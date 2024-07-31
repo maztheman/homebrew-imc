@@ -3,8 +3,8 @@ require_relative "../lib/cmake"
 class Imcommander < Formula
 	desc "ImGui Total Commander split panel file manager"
 	homepage "https://github.com/maztheman/ImCommander"
-	url "https://github.com/maztheman/ImCommander/archive/refs/tags/v0.0.5.tar.gz"
-	sha256 "3e3b274e2b07c1c6574982b7530206bfc63338ceb0824d905b0a4c694555f74d"
+	url "https://github.com/maztheman/ImCommander/archive/refs/tags/v0.0.5-1.tar.gz"
+	sha256 "85bd3e32bc35ae4565dad90cb272d5d162824be65c5f543668f79eb466f5da6b"
 	head "https://github.com/maztheman/ImCommander.git", branch: "main"
 	version "0.0.5"
 

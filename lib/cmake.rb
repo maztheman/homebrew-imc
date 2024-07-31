@@ -5,5 +5,6 @@ def imc_cmake_args
 		-G Ninja
 		-B build
 		-S .
+		-DHOMEBREW_ALLOW_FETCHCONTENT=ON
 	]
 end
